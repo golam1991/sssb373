@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: brown;
+    text-align:center;
+    height: 100px;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.banner{
+    background-color: rgb(157, 196, 20);
+    text-align: center;
+    height: 400px;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+    background-color: rgb(103, 52, 223);
+    text-align:center;
+    height: 250px; font-style: italic;
+    text-transform: capitalize;
+    width: 50%;
+    float: left;
+
+}
+  
+.right_content{
+    background-color: rgb(20, 207, 120);
+    text-align:center;
+    height: 250px;
+    font-style: italic;
+    text-transform: capitalize;
+    width: 50%;
+    float: right;
+
+}
+
+.content2{
+    overflow: hidden;
+}
+
+
+.long_content{ background-color: rgb(9, 116, 187);
+    text-align:center;
+    height: 250px; font-style: italic;
+    text-transform: capitalize;
+    width: 75%;
+    float: left;
+
+}
+.short_content{
+    background-color: rgb(74, 187, 9);
+    text-align:center;
+    height: 250px; font-style: italic;
+    text-transform: capitalize;
+    width: 25%;
+    float: left;
+
+}
+.client-section{
+    text-align: center;
+    
+}
+
+
+
+.client1{
+    background-color: darkviolet;
+    width: 25%;
+    float: left;
+    
+
+}
+.client2{
+    background-color: deeppink;
+    width: 25%;
+    float: left;
+    
+
+}
+.client3{
+    background-color: green;
+    width: 25%;
+    float: left;
+    
+
+}
+.client4{
+    background-color: indigo;
+    width: 25%;
+    float: left;
+    
+
+}
+.footer{
+    background-color: lime;
+    text-align: center;
+}
